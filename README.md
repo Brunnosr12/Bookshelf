@@ -1,6 +1,8 @@
 Prototipo de Website voltado para bibliotecas por assinatura. 
 
-Desenvolvido em HTml e CSS, como exercicio de unidade de medidas.
+Desenvolvido em HTMl e CSS, como exercicio de unidade de medidas.
+
+Obs: Atividade desenvolvida em treinamento com a ONEBITCODE.
 
 ![image](https://github.com/Brunnosr12/Bookshelf/assets/143046335/ad10bf07-734b-4903-961a-f1bfced952d1)
 
