@@ -10,9 +10,9 @@ Obs: Atividade desenvolvida em treinamento com a ONEBITCODE.
 
 Conceitos trabalhados:
 
-DISPLAY
-GOOGLE FONTS
-HEADER FIXED
+DISPLAY |
+GOOGLE FONTS |
+HEADER FIXED |
 FOOTER FIXED
 
 ![image](https://github.com/Brunnosr12/Bookshelf/assets/143046335/ad10bf07-734b-4903-961a-f1bfced952d1)
